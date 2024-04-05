@@ -6,3 +6,4 @@ PyPDF2
 pdf2image
 chromadb
 langchain_google_genai
+poppler-utils
